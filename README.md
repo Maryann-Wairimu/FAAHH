@@ -1,2 +1,0 @@
-# FAAHH
-faah-detector
